@@ -17,4 +17,12 @@ The data and code will be released soon.
 
 
 # Citation
-
+Please cite this paper if you want to use it in your work.
+```
+@article{zhu2020multi,
+  title={Multi-Drone based Single Object Tracking with Agent Sharing Network},
+  author={Zhu, Pengfei and Zheng, Jiayu and Du, Dawei and Wen, Longyin and Sun, Yiming and Hu, Qinghua},
+  journal={arXiv preprint arXiv:2003.06994},
+  year={2020}
+}
+```
