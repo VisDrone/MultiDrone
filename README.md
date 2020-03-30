@@ -19,7 +19,7 @@ Baidu:
 Two-MDOT: [train]() | [test1]() | [test2]()  
 Three-MDOT: [train1]() | [train2]() | [test1]() | [test2]()  
 Google:   
-google link will release soon.
+google link will be released soon.
 
 **The groundtruth of test data will be released soon.**
 
