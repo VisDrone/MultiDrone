@@ -18,9 +18,8 @@ The consists of 92 groups of video clips with 113, 918 high resolution frames ta
 Baidu:  
 Two-MDOT: [train]() | [test1]() | [test2]()  
 Three-MDOT: [train1]() | [train2]() | [test1]() | [test2]()  
-Google:  
-Two-MDOT: [train]() | [test1]() | [test2]()  
-Three-MDOT: [train1]() | [train2]() | [test1]() | [test2]()  
+Google:   
+google link will release soon.
 
 **The groundtruth of test data will be released soon.**
 
