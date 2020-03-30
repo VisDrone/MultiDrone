@@ -22,7 +22,7 @@ Google:
 Two-MDOT: [train]() | [test1]() | [test2]()  
 Three-MDOT: [train1]() | [train2]() | [test1]() | [test2]()  
 
-**The groundtruth of data will be released soon.**
+**The groundtruth of test data will be released soon.**
 
 ## ASNet
 ### Description
