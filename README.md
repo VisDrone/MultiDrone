@@ -1,6 +1,6 @@
 # Multi-Drone based Single Object Tracking with Agent Sharing Network
 
-![Paper](https://arxiv.org/pdf/2003.06994.pdf)
+[Paper](https://arxiv.org/pdf/2003.06994.pdf)
 
 ## Abstract
 
