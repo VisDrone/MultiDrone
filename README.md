@@ -27,7 +27,7 @@ google link will be released soon.
 
 ## ASNet
 ### Description
-![VisDrone](https://github.com/VisDrone/MultiDrone/blob/master/ASNet2.png)
+![VisDrone](https://github.com/VisDrone/MultiDrone/blob/master/ASNet.png)
 
 ### Download 
 
