@@ -33,6 +33,9 @@ google link will be released soon.
 
 **The code will be released soon.** 
 
+## References
+[1] Y. Wu, J. Lim, and M.-H. Yang, "Online Object Tracking: A Benchmark", in CVPR 2013.
+
 ## Citation
 Please cite this paper if you want to use it in your work.
 ```
