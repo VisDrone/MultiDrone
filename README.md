@@ -1,8 +1,8 @@
 # Multi-Drone based Single Object Tracking with Agent Sharing Network
 
-Multi-Drone based Single Object Tracking with Agent Sharing Network
+Multi-Drone based Single Object Tracking with Agent Sharing Network ([Paper](https://arxiv.org/pdf/2003.06994.pdf))
 
-This is an implementation of ASNet([Paper](https://arxiv.org/pdf/2003.06994.pdf)).
+This is an implementation of ASNet and MDOT_toolkit.
 
 ## Abstract
 
