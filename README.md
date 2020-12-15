@@ -23,6 +23,9 @@ Baidu:
 Google:   
 google link will be released soon.
 
+### Evaluation code
+The evaluation code can be find in [MDOT_toolkit](https://github.com/VisDrone/MultiDrone/tree/master/MDOT_toolkit)
+
 ## ASNet
 ### Description
 ![VisDrone](https://github.com/VisDrone/MultiDrone/blob/master/figures/ASNet.png)
