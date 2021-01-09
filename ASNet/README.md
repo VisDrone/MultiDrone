@@ -20,4 +20,6 @@ The SiamFC can be downloaded from https://github.com/bertinetto/siamese-fc.
 put these networks into the 'model' fold.
 
 #### Run
+```
 matlab -nodisplay -r main_running_ASNet
+```
